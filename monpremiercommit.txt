@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est FA1A-DB8F
+
+ R‚pertoire de C:\Users\utilisateur\gitformation
+
+23/12/2019  14:46    <DIR>          .
+23/12/2019  14:46    <DIR>          ..
+23/12/2019  14:31    <DIR>          devops-exercice
+23/12/2019  14:34    <DIR>          formation-git
+23/12/2019  14:46                 0 monpremiercommit.txt
+               1 fichier(s)                0 octets
+               4 R‚p(s)  74ÿ701ÿ819ÿ904 octets libres
